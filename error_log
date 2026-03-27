@@ -1,0 +1,54 @@
+[01-Jan-2026 18:23:05 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[01-Jan-2026 18:23:05 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[01-Jan-2026 18:23:05 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[10-Jan-2026 11:41:39 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[10-Jan-2026 11:41:39 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[10-Jan-2026 11:41:39 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[10-Jan-2026 12:38:13 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[10-Jan-2026 12:38:14 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[10-Jan-2026 12:38:14 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[26-Jan-2026 11:17:49 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/olfactor/public_html/clone-evolution/php.php on line 2
+[26-Jan-2026 11:42:24 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/olfactor/public_html/clone-evolution/goals.php on line 4
+[26-Jan-2026 11:43:33 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/olfactor/public_html/clone-evolution/goals.php on line 4
+[26-Jan-2026 12:18:43 America/New_York] PHP Parse error:  syntax error, unexpected '/' in /home/olfactor/public_html/clone-evolution/goals.php on line 313
+[26-Jan-2026 12:39:40 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/olfactor/public_html/clone-evolution/goals.php on line 331
+[26-Jan-2026 12:49:56 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[26-Jan-2026 12:49:56 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[26-Jan-2026 12:49:56 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[26-Jan-2026 19:18:44 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/olfactor/public_html/clone-evolution/goals.php on line 554
+[26-Jan-2026 19:35:17 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/olfactor/public_html/clone-evolution/goals.php on line 474
+[26-Jan-2026 19:35:38 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/olfactor/public_html/clone-evolution/goals.php on line 618
+[26-Jan-2026 19:35:40 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/olfactor/public_html/clone-evolution/goals.php on line 618
+[27-Jan-2026 06:27:56 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[27-Jan-2026 06:27:56 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[27-Jan-2026 06:27:56 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[30-Jan-2026 01:06:27 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[30-Jan-2026 01:06:27 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[30-Jan-2026 01:06:27 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[01-Feb-2026 21:05:24 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[01-Feb-2026 21:05:24 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[01-Feb-2026 21:05:24 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[02-Feb-2026 20:05:19 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[02-Feb-2026 20:05:19 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[02-Feb-2026 20:05:19 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[03-Feb-2026 20:51:12 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[03-Feb-2026 20:51:12 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[03-Feb-2026 20:51:12 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[05-Feb-2026 14:02:38 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[05-Feb-2026 14:02:38 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[05-Feb-2026 14:02:38 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[07-Feb-2026 04:48:21 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[07-Feb-2026 04:48:21 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[07-Feb-2026 04:48:21 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[12-Feb-2026 05:29:17 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[12-Feb-2026 05:29:17 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[12-Feb-2026 05:29:17 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[12-Feb-2026 05:34:55 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[12-Feb-2026 05:34:55 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[12-Feb-2026 05:34:55 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[13-Feb-2026 12:16:06 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[13-Feb-2026 12:16:06 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[13-Feb-2026 12:16:06 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[13-Feb-2026 13:31:43 America/New_York] PHP Notice:  Use of undefined constant olfactor_clone_evolution - assumed 'olfactor_clone_evolution' in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 3
+[13-Feb-2026 13:31:43 America/New_York] PHP Notice:  Undefined variable: f in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
+[13-Feb-2026 13:31:43 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/olfactor/public_html/clone-evolution/export_inventory.php on line 30
