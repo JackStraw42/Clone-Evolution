@@ -18,8 +18,7 @@ if ($_POST['switch_to_acct']){
 	$user = $_COOKIE['HT_user'];
 }
 
-$link = @mysql_connect('localhost', olfactor_jack, Dice_1234) or die('Error connecting to mysql');
-mysql_select_db(olfactor_clone_evolution) or die("Error connecting to database");
+include "sql_login.php";
 
 $result = mysql_query ("SELECT * FROM `update` WHERE user = '".$user."'");
 $row = mysql_fetch_array($result);
